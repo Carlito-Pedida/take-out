@@ -33,6 +33,14 @@
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         }
+      ],
+      [
+        "@sentry/react-native/expo",
+        {
+          "url": "https://sentry.io/",
+          "project": "n1c-take-out-app",
+          "organization": "node1creative-hw"
+        }
       ]
     ],
     "experiments": {
